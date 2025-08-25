@@ -26,5 +26,5 @@ The app allows users to manage projects, tasks, and collaboration in a fast and 
 .
 ├── backend/    # Backend code (Node + Express + TS + MongoDB)
 ├── client/     # Frontend code (React + Vite)
-├── package.json
+├── .gitignore
 └── README.md
